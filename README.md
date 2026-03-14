@@ -90,3 +90,6 @@ The datasets used in this project are provided by the Rebrickable LEGO Database,
 📜 License
 
 This project is for educational and data analysis purposes.
+
+If you can't view the code click here:
+https://nbviewer.org/github/Vincenzocariel/Examine-the-History-of-Lego-Sets/blob/main/notebook.ipynb
